@@ -74,8 +74,8 @@ $ yarn start
 - [x] Iniciar um README
 - [x] Selecionar biblioteca css
 - [x] Montar design inicial do jogo
-- [ ] Utilizar imagens de Yu Gi Oh nos cards
-- [ ] Sortear os cards
+- [x] Utilizar imagens de Yu Gi Oh nos cards
+- [x] Sortear os cards
 - [ ] Esconder os cards, e mostra-los com um clique
 - [ ] Gerenciar se dois cards clicados são da mesma imagem
 - [ ] Mensagem de sucesso caso o jogo seja finalizado
